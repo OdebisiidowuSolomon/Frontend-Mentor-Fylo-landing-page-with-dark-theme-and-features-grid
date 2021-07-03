@@ -28,19 +28,19 @@ Users should be able to:
 ### Screenshot
 
 **Mobile View**
-![Image 1](./src/screenshots/mobile-view_1.png)
-![Image 2](./src/screenshots/mobile-view_2.png)
-![Image 3](./src/screenshots/mobile-view_3.png)
-![Image 4](./src/screenshots/mobile-view_4.png)
-![Image 5](./src/screenshots/mobile-view_5.png)
-![Image 6](./src/screenshots/mobile-view_6.png)
-![Image 7](./src/screenshots/mobile-view_7.png)
-![Image 8](./src/screenshots/mobile-view_8.png)
-![Image 9](./src/screenshots/mobile-view_9.png)
+![Image 1](./screenshots/mobile-view_1.png)
+![Image 2](./screenshots/mobile-view_2.png)
+![Image 3](./screenshots/mobile-view_3.png)
+![Image 4](./screenshots/mobile-view_4.png)
+![Image 5](./screenshots/mobile-view_5.png)
+![Image 6](./screenshots/mobile-view_6.png)
+![Image 7](./screenshots/mobile-view_7.png)
+![Image 8](./screenshots/mobile-view_8.png)
+![Image 9](./screenshots/mobile-view_9.png)
 
 **Desktop View**
-![Image 1](./src/screenshots/desktop-view_1.png)
-![Image 2](./src/screenshots/desktop-view_2.png)
+![Image 1](./screenshots/desktop-view_1.png)
+![Image 2](./screenshots/desktop-view_2.png)
 
 ### Links
 
