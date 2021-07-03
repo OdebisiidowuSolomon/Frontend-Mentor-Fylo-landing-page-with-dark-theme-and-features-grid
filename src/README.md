@@ -96,7 +96,7 @@ it Css .card {
 
 ### Continued development
 
-i Really Look Forward in Learning
+i Really Look Forward To Learning
 
 - Scss
 - Less
@@ -105,9 +105,9 @@ i Really Look Forward in Learning
 
 ### Useful resources
 
-- [resource 1 How to Use SVG Images in CSS and HTML](https://www.freecodecamp.org/news/use-svg-images-in-css-html/)
+- [Resource 1 How to Use SVG Images in CSS and HTML](https://www.freecodecamp.org/news/use-svg-images-in-css-html/)
 - This helped me for Understand some details about SVG Images. I really liked this pattern and will use it going forward.
-- [resource 2 Selecting Breakpoints - The Options](https://shaydeecoder.hashnode.dev/selecting-breakpoints-the-options) - This is an amazing article which helped me finally understand Breakpoints. I'd recommend it to anyone still learning this concept.
+- [Resource 2 Selecting Breakpoints - The Options](https://shaydeecoder.hashnode.dev/selecting-breakpoints-the-options) - This is an amazing article which helped me finally understand Breakpoints. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
