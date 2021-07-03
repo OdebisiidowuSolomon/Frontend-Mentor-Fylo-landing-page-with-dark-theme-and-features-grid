@@ -64,6 +64,7 @@ a:hover {
 .fa:hover {
   color: var(--accent-cyan);
   transition: 500ms;
+  cursor: pointer;
 }
 
 ul {
