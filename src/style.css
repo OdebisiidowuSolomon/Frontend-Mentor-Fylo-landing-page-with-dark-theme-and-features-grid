@@ -11,6 +11,10 @@
   --testimonials: hsl(219, 30%, 18%);
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   margin: 0;
   color: white;
@@ -19,7 +23,7 @@ body {
 
 header,
 .illustration {
-  background-color: hsl(217, 28%, 15%);
+  background-color: var(--intro);
 }
 
 .main {
@@ -148,14 +152,14 @@ button {
   height: 3rem;
   border-radius: 30px;
   border-style: none;
-  background: linear-gradient(50deg, hsl(176, 68%, 64%), hsl(198, 60%, 50%));
+  background: linear-gradient(50deg, var(--accent-cyan), hsl(198, 60%, 50%));
   color: white;
   font-weight: bold;
 }
 
 button:hover {
   cursor: pointer;
-  background: linear-gradient(50deg, hsl(198, 60%, 50%), hsl(176, 68%, 64%));
+  background: linear-gradient(50deg, hsl(198, 60%, 50%), var(--accent-cyan));
 }
 
 .illustration button {
@@ -206,12 +210,12 @@ button:hover {
 }
 
 .how-it-works a {
-  border: 0.18em solid hsl(176, 68%, 64%);
+  border: 0.18em solid var(--accent-cyan);
   border-left: none;
   border-right: none;
   border-top: none;
   padding: 0 0.2em 0.3em 0.2em;
-  color: hsl(176, 68%, 64%);
+  color: var(--accent-cyan);
 }
 
 .how-it-works a:hover {
@@ -276,8 +280,8 @@ p {
 }
 
 .get-started {
-  border: 1px solid hsl(217, 28%, 15%);
-  background-color: hsl(217, 28%, 15%);
+  border: 1px solid var(--intro);
+  background-color: var(--intro);
   padding: 2em;
   width: 55%;
   left: 15%;
