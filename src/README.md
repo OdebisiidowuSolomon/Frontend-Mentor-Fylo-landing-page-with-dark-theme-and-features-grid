@@ -27,7 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-**Mobile View**
+## Mobile View
+
 ![Image 1](./screenshots/mobile-view_1.png)
 ![Image 2](./screenshots/mobile-view_2.png)
 ![Image 3](./screenshots/mobile-view_3.png)
@@ -38,7 +39,8 @@ Users should be able to:
 ![Image 8](./screenshots/mobile-view_8.png)
 ![Image 9](./screenshots/mobile-view_9.png)
 
-**Desktop View**
+## Desktop View
+
 ![Image 1](./screenshots/desktop-view_1.png)
 ![Image 2](./screenshots/desktop-view_2.png)
 
