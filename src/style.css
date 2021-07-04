@@ -9,6 +9,7 @@
   --main: hsl(218, 28%, 13%);
   --footer: hsl(216, 53%, 9%);
   --testimonials: hsl(219, 30%, 18%);
+  --error: hsl(0, 100%, 63%);
 }
 
 html {
@@ -320,6 +321,11 @@ input {
   outline: none;
   margin: auto;
   margin-bottom: 1.9em;
+}
+
+.error {
+  background-color: var(--error);
+  color: white !important;
 }
 
 .get-started button {

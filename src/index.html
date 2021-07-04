@@ -204,9 +204,9 @@
           questions, our support team would be happy to help you.
         </p>
 
-        <form>
-          <input type="text" placeholder="email@example.com">
-          <button type="submit">Get Started For Free</button>
+        <form onsubmit="event.preventDefault();">
+          <input name="email" type="email" placeholder="email@example.com" onfocus="validate()">
+          <button onclick=validate()>Get Started For Free</button>
         </form>
 
       </div>
@@ -293,6 +293,25 @@
 
     </footer>
   </div>
+  <script>
+    const { email } = document.getElementsByTagName('form')[0]
+    const input = document.getElementsByTagName('input')[0]
+
+    function validate() {
+      const result = validateEmail(email.value)
+      if (!result) {
+        input.classList.add('error')
+      } else { input.classList.remove('error'); }
+
+
+    }
+
+    function validateEmail(email) {
+      const re = /^(([^<>()[\]\\.,;:\s@"]+(\.[^<>()[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+      return re.test(String(email).toLowerCase());
+    }
+
+  </script>
 </body>
 
 </html>

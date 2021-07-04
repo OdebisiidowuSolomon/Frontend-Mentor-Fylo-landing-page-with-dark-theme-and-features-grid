@@ -46,8 +46,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://github.com/OdebisiidowuSolomon/Frontend-Mentor-Fylo-landing-page-with-dark-theme-and-features-grid)
-- Live Site URL: [Fylo](https://fylolandingsite.netlify.app/)
+- Solution URL: https://github.com/OdebisiidowuSolomon/Frontend-Mentor-Fylo-landing-page-with-dark-theme-and-features-grid
+- Live Site URL: [Fylo-Landing-Page](https://fylolandingsite.netlify.app/)
 
 ## My process
 
